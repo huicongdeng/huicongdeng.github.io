@@ -27,9 +27,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Nano-electromechanical Systems (NEMS)
 - photonics
 - Acoustic devices
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
-
-My current research focuses on microelectronic devices that has the potential to be applied in the IoT. Design, simulation and microfabrication in clean room is my most recent works.
 
 <br>
 
@@ -37,6 +34,9 @@ My current research focuses on microelectronic devices that has the potential to
 
 ## News and Updates
 
-- **Jan 2024：**waiting for PhD interviews and offers
-- **Nov 2023：**Happy to be awarded the National Scholarship in UCAS.
+- **Jan 2024：**Waiting for PhD interviews and offers
+- **Nov 2023：**Happy to be awarded the National Scholarship in UCAS
+- **Nov 2023:** Co-author work accepted by IEEE MEMS 2024.
+- **Nov 2023:**  Co-first author conference paper published in IUS 2023
+- **Jan 2023:** Start my journey to UC Berkeley!
 
