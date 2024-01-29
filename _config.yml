@@ -12,11 +12,11 @@ owner:
   email: denghuicong20@mails.ucas.ac.cn
   cv: https://huicongdeng.github.io/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
+  # twitter: 
   github: huicongdeng
-  linkedin: 
-  google scholar: 
-  researchgate: 
+  # linkedin: 
+  # google scholar: 
+  # researchgate: 
   # facebook: 
   # instagram: 
   # lastfm:
@@ -40,12 +40,12 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Teams
+  #   url: /teams/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
