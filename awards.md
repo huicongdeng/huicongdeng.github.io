@@ -26,6 +26,6 @@ title: Awards
 
 - Sep 2022 - Jan 2023: Academic peer tutor in EE major courses.
 
-- Sep 2021 - Sep 2022：Deputy President of Athletic Department, Undergraduate Union of UCAS
+- Sep 2021 - Sep 2022：President of Athletic Department, Undergraduate Union of UCAS
 
   
